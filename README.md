@@ -24,7 +24,7 @@ Pass: 123
 
 Login Mahasiswa1
 Email: m1@gmail.com
-Pass 123
+Pass: 123
 
 - Login
 ![Screenshot 2025-07-06 222438](https://github.com/user-attachments/assets/b4ec66ac-1397-4472-929d-c90ba5837a80)
