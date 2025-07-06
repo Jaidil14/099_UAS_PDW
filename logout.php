@@ -8,6 +8,6 @@ $_SESSION = array();
 session_destroy();
 
 // Redirect ke halaman login
-header("Location: ../login.php");
-exit;
+header("Location: ./login.php"); // Path relatif dari logout.php ke login.php
+exit; // Sangat penting untuk menghentikan eksekusi script setelah redirect
 ?>
